@@ -4,9 +4,9 @@
 The game is similar to pacman in that you are being chased by enemies through a maze. However, in this game you are able to shoot enemies in front of you, and you are actually able to get to the other side of the maze and escape.
 
 ## Genere:
-•Arcade	
-•Shooter	
-•Puzzle	
+* Arcade 
+* Shooter 
+* Puzzle	
 
 
 ## Platform:
