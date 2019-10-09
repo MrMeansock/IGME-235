@@ -5,11 +5,9 @@ High Concept:
 
 Genere
 
-•Arcade
-
-•Shooter
-
-•Puzzle
+•Arcade	
+•Shooter	
+•Puzzle	
 
 
 Platform
